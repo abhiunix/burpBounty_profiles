@@ -1,0 +1,6 @@
+root:x:
+shadow:
+resolv.conf
+boot loader
+for 16-bit app support
+/dev/root
